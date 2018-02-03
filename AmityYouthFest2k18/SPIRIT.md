@@ -1,4 +1,6 @@
-*Hackathons are a lot like marathons. People go to marathons for many different reasons. Some people go because they want to compete at a high level. But most of us take part because we want to improve ourselves, make friends, and have fun. It’s great that hackathons cater to so many different motivations from a wide variety of people.*
+
+## Spirit
+**Hackathons are a lot like marathons. People go to marathons for many different reasons. Some people go because they want to compete at a high level. But most of us take part because we want to improve ourselves, make friends, and have fun. It’s great that hackathons cater to so many different motivations from a wide variety of people.**
 
 It’s good to keep in mind that although hackathons are structured like a competition, most people are there to learn and have a good time.
 
