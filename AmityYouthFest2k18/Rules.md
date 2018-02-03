@@ -1,11 +1,11 @@
 # Hackathon Rules
 
-If you have a suggestion for these rules or a question about them, please submit an issue [here](https://github.com/MLH/hackathon-rules/issues).
+If you have a suggestion for the rules or a question about them, please submit an issue [here](https://github.com/asetalias/Logistics-and-Event-Contributions/issues).
 
 
 ## The spirit of the competition
 
-Remember that hackathons are like marathons. Some people go to compete but most people take part to better themselves and have fun. Whatever the reason is you're at a hackathon, make sure you're upholding the [hacker spirit](https://github.com/asetalias/Logistics-and-Event-Contributions/AmityYouthFest2k18/blob/master/SPIRIT.md) by collaborating with other teams, helping beginners, and having fun.
+Remember that hackathons are like marathons. Some people go to compete but most people take part to better themselves and have fun. Whatever the reason is you're at a hackathon, make sure you're upholding the [hacker spirit](https://github.com/asetalias/Logistics-and-Event-Contributions/AmityYouthFest2k18/SPIRIT.md) by collaborating with other teams, helping beginners, and having fun.
 
 
 ## The rules of the competition
