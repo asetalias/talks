@@ -17,6 +17,6 @@ Saying ‘what kind of an idiot doesn’t know about the Yellowstone supervolcan
 Another big part of the Hacker Spirit is building. You should endeavour to build something at the event. Hackathons are about building, not about pitching a business idea. Demos of working applications are encouraged and pitches or presentations are discouraged. If you weren’t able to finish a working demo, that’s fine! Show us what you managed to get built, and tell us what you learned! What matters is that you attempted to build something — that’s the true Hacker Spirit!
 
 ## Share
-Teams should communicate, be friendly to each other, and work together. You’ll get a lot more from the event by working with other teams than by trying to work against them. Teams are encouraged to offer help and advice to each other.
+Teams should communicate, be friendly with each other, and work together. You’ll get a lot more from the event by working with other teams than by trying to work against them. Teams are encouraged to offer help and advice to each other.
 
 Refusing to help another team because of competition is not in the spirit of hackathons and isn’t very sporting. You shouldn’t be afraid to share your ideas with other teams. Great ideas are built on collaboration and sharing, not secrecy and protectiveness. Just like in real life, in hackathons you generally aren’t judged on ideas. You’re judged on what you actually manage to build.
