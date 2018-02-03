@@ -1,4 +1,3 @@
-
 ## Spirit
 **Hackathons are a lot like marathons. People go to marathons for many different reasons. Some people go because they want to compete at a high level. But most of us take part because we want to improve ourselves, make friends, and have fun. It’s great that hackathons cater to so many different motivations from a wide variety of people.**
 
