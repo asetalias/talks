@@ -6,13 +6,13 @@ Hackathons are 24+ hour technology festivals. They’re somewhere you can meet l
 Earlier i used to have same misconception. The word “hack" confuses people and they think hackathons are a way to “hack” into something. NOOOO. Hacking is basically building something. It could be anything.
 
 ## What do I do at a hackathon?
-When you arrive at a hackathon, start to meet people. Talk about hack ideas and hack technologies. Bring some ideas of your own and make up new ones throughout the day. Even bring up ridiculous ideas. Even if they're impossible to build or you wouldn't care to build them anyway, they can be fun to talk about and often spark new ideas in people. The mind of an engineer is a strange place.
+When you arrive at a hackathon, most important thing, start interacting. Talk about hack ideas and hack technologies. Bring some ideas of your own and make up new ones throughout the day. Even bring up ridiculous ideas. Even if they're impossible to build or you wouldn't care to build them anyway, they can be fun to talk about and often spark new ideas in people. The mind of an engineer is a strange place.
 
 Hackathons are very much a social event. So don’t waste any opportunity to talk to somebody. The organizers will come up and tell you a bit about the event and what’s planned.
 
 Then hacking begins. You’ll team up with some other students to have fun making something cool. You can make anything you want using whatever technology you want. And it doesn’t have to be to win a prize. Hackathons aren’t really about winning prizes. They’re about playing with awesome technology.
 
-You’ll be able to spend a full 24 hours working on your project, if you so desire. But you can take a break to eat some of the  meals and snacks in provision and grab some sleep. There’s usually some fun activities so, everyone can have a nice break from working.
+You’ll be able to spend a full 24 hours working on your project, if you so desire. But you can take a break to eat some of the  meals and snacks in provision and grab some sleep. Usually there is some fun activities so, that everyone can have a nice break from working.
 
 It will be a crazy rush to get your project finished. There will be last-minute bugs everywhere. But eventually you’ll have to call it a day. Hacking’s over and it’s demo time.
 
@@ -51,7 +51,7 @@ You’re meant to go and ask questions wherever you are stuck. Everybody will be
 If you can’t find somebody to help you out, go ask the volunteers. If they can’t help you themselves, they’ll help find you somebody who can.
 
 ### What if I don’t know anybody there?
-Not to worry! Approach hackathons with the willingness to meet people and to learn, and you’ll have a fantastic experience. A lot of people go to hackathons without teams. So it’s perfectly normal to go around to people as all will be eager to know and connect with people, tell them you’re looking for a team, and ask if you can help out.
+Not to worry! Approach hackathons with the willingness to meet people and to learn, and you’ll have a fantastic experience. A lot of people go to hackathons without teams, don't hesitate ask people and team up with them. So it’s perfectly normal to go around people as all will be eager to know and connect with people, however there are developers who say they made a ton of contacts and friends at hackathons, many which last long after the hackathon wraps up.
 
 Hackathons will often run team-matching sessions at the start to help you meet people. And you can often join social groups for the event beforehand and post there to find potential teammates.
 Invite your friends to come to the hackathon too! That way you’re guaranteed to have at least one familiar face.
