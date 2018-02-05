@@ -10,12 +10,13 @@
 
 ## Incident Reporting
 If you have an issue with a member or moderator please take it up with the moderators privately. We promise that everything will be confidential and we won’t get mad at you if you have a complaint against a moderator.
-We also have a confidential [form] if you would rather your incident not be tied to your identity.
+We also have a confidential 
+[form](http://bit.ly/hackthenightreportincident) if you would rather your incident not be tied to your identity.
 
 ## Why is this moderator ignoring my messages?
 Moderators are volunteers, busy bees. They will usually reply to you very promptly or connect you with someone who can, but if your query is taking time, please be patient.
 
 ## What if I disagree with the moderator who reached out to me?
-Feel free to reach out to other moderators or fill the [form].
+Feel free to reach out to other moderators or fill the [form](http://bit.ly/htn-suggestions).
 
 [form]: (@omi,form)
