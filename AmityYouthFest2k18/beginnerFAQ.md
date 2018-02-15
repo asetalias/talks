@@ -67,6 +67,18 @@ That’s normal. Most people don’t have an idea before they get to the event. 
 ### What if I don’t want to present my hack?
 You might think your hack isn’t impressive enough to present or you might think it won’t win a prize so why bother? Don’t be silly. Hackathons aren’t about winning prizes. And they aren’t about showing off. They’re about learning and playing with technology and learn how to work as a team. There is absolutely no reason not to share what you’ve been working on for the past 24 hours. Even if your hack doesn’t work or you couldn’t finish it, people like hearing about what you tried to do, what challenges you faced, what technology you used, and what you learned. At least participate and be a part of this amazing fun filled tech event.
 
+## What do I bring?
+This is a very hands-on and grassroots event. Bring your laptops, mobile phones, Oculus Rifts, headphones, wearable computing devices, to whatever inspires you but above all, your energy and your brain! Don’t worry if you forget something, there will be tons of stuff to do. 
+
+## Am I eligible to participate?
+*Age is an issue of mind over matter.*
+*If you don't mind, it doesn't matter.*
+So, yes, the participation is open for all, students and professionals alike. Being an open source community, we encouarge learning over anything.
+
+## Worried about not having the right skill set?
+*Every expert was once a beginner.* 
+So, don't worry about the skills, if you're curious enough to learn, we're game. Let this fear fade away into a night full of learning.
+
 ## Great! How can I get involved?
 The registration link will be soon up ad running.
 
