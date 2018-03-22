@@ -1,11 +1,10 @@
 # Introduction to RaspberryPi and its applcations in IoT
 
-**Date**: March 22, 2018
-**Time**: 2.15 PM IST onwards
-**Venue**: E3-303C
+**Date**: March 22, 2018  
+**Time**: 2.15 PM IST onwards  
+**Venue**: E3-303C  
 
 ## Pre-requisites
-
 Basic knowledge on:
 - Linux
 - SSH
