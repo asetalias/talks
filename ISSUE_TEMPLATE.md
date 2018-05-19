@@ -44,3 +44,7 @@ _Write a brief decription about you here_
 [Include link to slides here](link)
 
 [Include link to video here](link)
+
+**Month**
+_A month in which you will be available to give the talk_
+
