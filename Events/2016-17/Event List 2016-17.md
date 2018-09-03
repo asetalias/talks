@@ -1,3 +1,9 @@
+### All great places to collaborate
+- Campus Meets - every Thursday
+- Conference Calls - biweekly, every Monday and Friday
+
+Feel free to join in. 
+
 **Date**|**Time**|**Type**|**Venues**|**Topic**|**Speaker**
 -----|-----|-----|-----|-----|-----
 16 September 2016| |Workshop|E2 Seminar Hall|PyByte- Python, Linux, Kivy| Various
@@ -17,3 +23,4 @@
 3 March 2017|15:30|Web Design Study Group|E3 305|#6: CSS|Ayush Agarwal
 6 March 2017|16:00|Web Design Study Group|E3 303|#7: CSS|Ayush Agarwal
 8 March 2017|12:00|Workshop|E2 401|LinuxChix India Meetup- International Women's Day|Shivani Bhardwaj, Shyam Saini
+24 March 2017| |Webinar|Youtube|Wordpress 101|Samriddha Prajapati
