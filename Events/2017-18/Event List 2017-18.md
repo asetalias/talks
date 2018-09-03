@@ -1,3 +1,9 @@
+### All great places to collaborate
+- Campus Meets - every Thursday
+- Conference Calls - biweekly, every Monday and Friday
+
+Feel free to join in. 
+
 **Date**|**Time**|**Type**|**Venues**|**Topic**|**Speaker**
 -----|-----|-----|-----|-----|-----
 17 August 2017|11.00AM|Guest Lecture|A-206|Kickstarter Event for CSE Freshers 2017|Anuvrat Parashar and Mukul Malik
