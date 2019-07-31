@@ -11,3 +11,5 @@ Feel free to join in.
 16 August 2018|2.15 PM|Workshop| |Linux Installation Fest| |
 23 August 2018|2.15 PM|Meetup| |ALiAS Informal Meetup| |
 13 September 2018|1.15 PM|Workshop|E2 Seminar Hall|Data Security Training from sflc.in|Shashikanth Reddy Palvatla
+04 Oct 2018| |Workshop| |Learning C|Siddharth Bhardwaj
+22 Oct 2018| |Workshop| |Hacktoberfest 2018|Parth Sharma
