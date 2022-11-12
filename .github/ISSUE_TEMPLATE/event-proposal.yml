@@ -11,6 +11,8 @@ body:
         Thanks for taking the time to propose an event!
   - type: input
     id: EventTitle
+    validations:
+      required: true
     attributes:
       label: Title
       description: Title of the proposed event
@@ -26,18 +28,18 @@ body:
       options:
         - Talk
         - Workshop / Hands-on
-  - type: checkboxes
+  - type: dropdown
     id: EventLocation
+    validations:
+      required: true
     attributes:
       label: Location
-      description: Possible locations
+      description: Possible locations for the event
+      multiple: true
       options:
-        - label: Online
-          required: false
-        - label: Campus -- Noida
-          required: false
-        - label: Campus -- Lucknow
-          required: false
+        - "Campus -- Noida"
+        - "Campus -- Lucknow"
+        - "Online"
   - type: textarea
     id: EventAbout
     validations:
