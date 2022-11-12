@@ -1,0 +1,12 @@
+# Allow blank issues for now since the templates don't cover other logistics and documentation tasks
+blank_issues_enabled: true
+contact_links:
+  - name: Discord
+    url: https://discord.gg/gY37SvptdH
+    about: Casual discussions, online events and more.
+  - name: Telegram
+    url: https://t.me/asetalias
+    about: Casual and formal discussions with past and current members.
+  - name: Membership form
+    url: https://goo.gl/forms/mZAhlJMxqCwZVbRK2
+    about: Join us as a member (for current students at Amity campuses)
