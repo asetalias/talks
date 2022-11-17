@@ -4,19 +4,12 @@ assignees:
   - ditsuke
 labels:
   - "type/proposal"
+title: "[Proposal] "
 body:
   - type: markdown
     attributes:
       value: |
         Thanks for taking the time to propose an event!
-  - id: EventTitle
-    type: input
-    validations:
-      required: true
-    attributes:
-      label: Title
-      description: Title of the proposed event
-      placeholder: Event Title
   - id: EventType
     type: dropdown
     validations:
