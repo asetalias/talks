@@ -1,5 +1,5 @@
 name: Event Proposal
-description: Propose an event (talk, workshop or webinar) for ALiAS. 
+description: Propose an event (talk, workshop or webinar) for ALiAS.
 assignees:
   - ditsuke
 labels:
@@ -9,16 +9,16 @@ body:
     attributes:
       value: |
         Thanks for taking the time to propose an event!
-  - type: input
-    id: EventTitle
+  - id: EventTitle
+    type: input
     validations:
       required: true
     attributes:
       label: Title
       description: Title of the proposed event
       placeholder: Event Title
-  - type: dropdown
-    id: EventType
+  - id: EventType
+    type: dropdown
     validations:
       required: true
     attributes:
@@ -28,36 +28,34 @@ body:
       options:
         - Talk
         - Workshop / Hands-on
-  - type: dropdown
-    id: EventLocation
-    validations:
-      required: true
+  - id: EventLocation
+    type: dropdown
     attributes:
       label: Location
-      description: Possible locations for the event
+      description: Possible location of the event. You may select multiple options.
       multiple: true
       options:
-        - "Campus -- Noida"
-        - "Campus -- Lucknow"
-        - "Online"
-  - type: textarea
-    id: EventAbout
+        - "Campus: Noida"
+        - "Campus: Lucknow"
+        - "Online (Discord, YouTube Stream or Zoom/Jitsi)"
+  - id: EventAbout
+    type: textarea
     validations:
       required: true
     attributes:
       label: About
       description: About the event
       placeholder: Something about the event...
-  - type: textarea
-    id: EventPrerequisites
+  - id: EventPrerequisites
+    type: textarea
     validations:
       required: false
     attributes:
       label: Pre-requisites
       description: Pre-requisite requirements or recommenendations for attendees of the event
       placeholder: Hat of wisdom?
-  - type: input
-    id: EventDuration
+  - id: EventDuration
+    type: input
     validations:
       required: true
     attributes:
@@ -76,19 +74,20 @@ body:
         - "Beginner"
         - "Intermediate"
         - "Advanced"
-  - type: textarea
+  - id: EventResources
+    type: textarea
     validations:
       required: false
     attributes:
       label: Resources
       description: Resources on the event's topic
-  - type: textarea
-    id: EventSpeakerBio
+  - id: EventSpeakerBio
+    type: textarea
     validations:
       required: false
     attributes:
       label: Speakers
-      description: |
+      description: >
         About the Speaker(s) of the Event. Ideally, include
         social links (Twitter, LinkedIn, etc).
       placeholder: SpeakerX is a...
