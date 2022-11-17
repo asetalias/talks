@@ -9,7 +9,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to propose an event!
+        Thanks for taking the time to propose an event for [ALiAS](https://asetalias.in)!
+        Please fill this form below to help us know about the event and plan it with you.
   - id: EventType
     type: dropdown
     validations:
