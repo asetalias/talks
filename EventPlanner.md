@@ -1,35 +1,36 @@
-Event Planner is a planner to keep track of different events that have been taking place under the umbrella of ALiAS.
-Following is a template that must be followed for the planning of most offline events like workshops.
+# Event Planner
+
+The Event Planner serves as a comprehensive guide to ensure seamless organization of various events hosted by ALiAS. The template provided below outlines the necessary steps to plan most offline events, such as workshops.
 
 ## Pre-event
 
 ### Posters
 
-3 color and 30 grayscale posters need to be put up on display in E3 block notice boards and allotted venue
+Pin/Paste three colored and thirty grayscale posters on the notice boards in the E3 block and the allocated venue. The posters should include the following details:
 
 - Event title
-- Speaker
-- DTV (Date, Time, Venue)
-- OD provided? (Y/N)
+- Speaker information
+- Date, Time, and Venue (DTV)
+- Availability of on-demand (OD) resources (Yes/No)
 
-### Materials to arrange
+### Materials to Arrange
 
-- Minimum 3 pen drives to store software and applications (if needed) in pen drive
-- Required lighting/sound
-- Enough capacity according to RSVP
-- Technical: Projector, LAN, Router, Power cords
+- Prepare a minimum of three pen drives to store software and applications, if required.
+- Ensure appropriate lighting and sound arrangements.
+- Allocate sufficient space to accommodate the expected number of RSVPs.
+- Arrange technical equipment, including a projector, LAN connection, router, and power cords.
 
 ## Event Day Preparation
 
-- Check if venue arrangements are adequate
-- Confirm speaker's presence
-- Confirm a photographer for the event
-- On-the-spot registration of attendees
-- Reminder to RSVPs
+- Verify that the venue arrangements meet the event requirements.
+- Confirm the presence of the scheduled speaker.
+- Assign a photographer for capturing event moments.
+- Facilitate on-the-spot registration for attendees.
+- Send a reminder to those who have RSVPed for the event.
 
 ## Post-event
 
-- Ask attendees for Feedback - Reviews, Suggestion, Comments
-- Write-ups as Summary (100-150 words) and Detailed Report (about a page)
-- Follow up with attendees: Inform about more resources, opportunities, how to contribute/learn further
-- Share necessary docs/ slides regarding the event
+- Collect feedback from attendees, including reviews, suggestions, and comments.
+- Prepare a summary write-up (100-150 words) and a detailed report (approximately one page) documenting the event.
+- Follow up with attendees, providing them with additional resources, information about opportunities, and guidance on further contribution and learning.
+- Share relevant documents and slides related to the event with the attendees.
