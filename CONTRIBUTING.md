@@ -10,7 +10,7 @@ To address your requests or proposals, we kindly ask you to create an issue in t
 - If you would like to request webinars and workshops on a specific field or topic, and we can assist in introducing them.
 - If you have identified any issues in the management or other processes that we can help address.
 
-> **Notes**:Please avoid redundancy, we encourage you to add your input to existing issues if they already cover your interests. Creating duplicate issues makes it challenging for us to effectively assist you. We appreciate your understanding and cooperation in this regard.
+> **Note**:Please avoid redundancy, we encourage you to add your input to existing issues if they already cover your interests. Creating duplicate issues makes it challenging for us to effectively assist you. We appreciate your understanding and cooperation in this regard.
 
 ## Event Posters
 
