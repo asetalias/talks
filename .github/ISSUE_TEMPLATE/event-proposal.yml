@@ -1,7 +1,7 @@
 name: Event Proposal
 description: Propose an event (talk, workshop or webinar) for ALiAS.
 assignees:
-  - ditsuke
+  - "vyogami , jailbreakerVC"
 labels:
   - "type/proposal"
 title: "[Proposal] "
